@@ -7,9 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Tiji - Главная</title>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
     <!-- <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script> -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"> -->
+    <script src="https://cdn.jsdelivr.net/jquery.marquee/1.4.0/jquery.marquee.min.js"></script>
 <script defer="defer" src="./assets/scripts/main.js"></script><link href="./assets/styles/main..css" rel="stylesheet"></head>
 <body>
     <header class="header">
@@ -50,16 +51,30 @@
                 </div>
                 <div class="header__wrap">
                     <a href="" class="header__link">тв программа</a>
-                    <a href="" class="logo"><img src="assets/img/logo..svg" alt=""></a>
+                    <a href="" class="logo">
+                        <img src="assets/img/logo..svg" alt="">
+                        <img src="assets/img/logo-footer..svg" alt="" class="_mob">
+                    </a>
                     <a href="" class="header__link">развлечения</a>
                 </div>
                 <div class="header__auth-wrap">
-                    <a href="" class="header__auth-link">
-                        <img src="assets/img/lk..svg" alt="">
+                    <a href="" class="header__auth-link _unauthorised">
+                        <div class="header__auth-link__icon">
+                            <svg><use xlink:href="assets/img/sprite..svg#lk-icon"></use></svg>
+                        </div>
+                        <span>войти</span>
                     </a>
+                    <!-- <a href="" class="header__auth-link _authorised">
+                        <div class="header__auth-link__icon">
+                            <svg><use xlink:href="./assets/img/sprite.svg#lk-icon"></use></svg>
+                        </div>
+                        <span>войти</span>
+                    </a> -->
                 </div>
             </div>
-            <div class="header__schedule">
+        </div>
+        <div class="header__schedule">
+            <div class="header__schedule__wrap">
                 <div class="header__schedule__item">
                     <div class="header__schedule__item__eyes">
                         <div class="eye"></div>
@@ -76,9 +91,193 @@
                     <span class="header__schedule__item__text">Далее:</span>
                     <span class="header__schedule__item__name">Стэн и Оливия</span>
                 </div>
-            </div>
+                
+            </div>            
         </div>
     </header>
+
+    <main class="main">
+
+        <section class="title">
+            <div class="container">
+                <div class="title__wrapper">
+                    <div class="title__slider">
+                        <div class="title__slide">
+                            <img src="assets/img/title1..jpg" alt="">
+                        </div>
+                        <div class="title__slide">
+                            <img src="assets/img/title1..jpg" alt="">
+                        </div>
+                        <div class="title__slide">
+                            <img src="assets/img/title1..jpg" alt="">
+                        </div>
+                        <div class="title__slide">
+                            <img src="assets/img/title1..jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="title__wrapper__dots">
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="welcome">
+            <div class="container">
+                <div class="welcome__wrapper">
+                    <div class="welcome__left">
+                        <ul class="ghosts__list">
+                            <li class="ghosts__item">
+                                <img src="assets/img/ghost1..png" alt="" class="ghost">
+                                <img src="assets/img/shadow1..svg" alt="" class="shadow">
+                            </li>
+                            <li class="ghosts__item">
+                                <img src="assets/img/ghost2..png" alt="" class="ghost">
+                                <img src="assets/img/shadow2..svg" alt="" class="shadow">
+                            </li>
+                            <li class="ghosts__item">
+                                <img src="assets/img/ghost3..png" alt="" class="ghost">
+                                <img src="assets/img/shadow3..svg" alt="" class="shadow">
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="welcome__right">
+                        <h1 class="welcome__headline section__header">ПРИВЕТ ОТ TiJi!</h1>
+                        <p class="welcome__desc section-text">
+                            Добро пожаловать в мир свободных, счастливых детей и неидеальных родителей! Телеканал TiJi дарит атмосферу волшебства и новых горизонтов, безопасности и доверия, мечтаний и творческого развития. Мультфильмы TiJi полностью адаптированы под современного ребенка, развивают самое главное для дошкольника – эмоциональный интеллект и прививают базовые человеческие ценности. Нравится?                            
+                        </p>
+                        <div class="welcome__right__socials">
+                            <span class="welcome__right__socials__text">Давайте будем на связи:</span>
+                            <a href="" class="welcome__right__social__link"><svg><use xlink:href="assets/img/sprite..svg#vk"></use></svg></a>
+                            <a href="" class="welcome__right__social__link"><svg><use xlink:href="assets/img/sprite..svg#tg"></use></svg></a>
+                            <a href="" class="welcome__right__social__link"><svg><use xlink:href="assets/img/sprite..svg#youtube"></use></svg></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="welcome__wrapper _secondary">
+                    <div class="welcome__left">
+                        <h2 class="section__header">ГДЕ СМОТРЕТЬ ТЕЛЕКАНАЛ TiJi?</h2>
+                    </div>
+                    <div class="welcome__right">
+                        <p class="welcome__desc section__text">Смотрите телеканал с удобных<br> устройств в любое время!</p>
+                        <a href="" class="welcome__btn btn _dark">Мы тут есть</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="video">
+            <div class="container">
+                <div class="video__wrapper">
+                    <div class="video-box">
+                        <img src="assets/img/video-plug..jpg" alt="">
+                    </div>
+                    <div class="video__links">
+                        <a href="#" class="video__link btn">Каталог мультфильмов</a>
+                        <a href="#" class="video__link btn _dark">Смотреть онлайн</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="categories">
+            <div class="container">
+                <ul class="categories__list">
+                    <li class="categories__item">
+                        <a href="" class="categories__link">
+                            <img src="assets/img/cat1..jpg" alt="">
+                            <div class="categories__overlay">
+                                <span class="categories__header">Сказки на Tiji</span>
+                                <span class="categories__desc">КОНКУРС</span>
+                                <span class="categories__text">
+                                    Слушайте сказки на TiJi
+                                    и выигрывайте классные
+                                    призы                                    
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="categories__item">
+                        <a href="" class="categories__link">
+                            <img src="assets/img/cat2..jpg" alt="">
+                            <div class="categories__overlay">
+                                <span class="categories__header">Развлечения</span>
+                                <span class="categories__desc"></span>
+                                <span class="categories__text"></span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="categories__item">
+                        <a href="" class="categories__link">
+                            <img src="assets/img/cat3..jpg" alt="">
+                            <div class="categories__overlay">
+                                <span class="categories__header">Лавка Tiji</span>
+                                <span class="categories__desc"></span>
+                                <span class="categories__text"></span>
+                            </div>
+                        </a>
+                    </li>                                        
+                </ul>
+            </div>
+        </section>
+        <section class="parents">
+            <div class="container">
+                <div class="parents__wrapper">
+                    <div class="parents__controlls">
+                        <h2 class="parents__headline section__header">любимым родителям</h2>
+                        <ul class="parents__tabs__list">
+                            <li class="parents__tabs__item btn _active">Все</li>
+                            <li class="parents__tabs__item btn _dark">Слушать</li>
+                            <li class="parents__tabs__item btn">Смотреть</li>
+                            <li class="parents__tabs__item btn _red">Читать </li>
+                        </ul>
+                    </div>
+                    <div class="parents__slider__wrapper">
+                        <div class="parents__slider__controlls"></div>
+                        <div class="parents__slider">
+                            <div class="parents__slide">
+                                <div class="parents__slide__img-box">
+                                    <img src="#" alt="">
+                                </div>
+                                <div class="parents__slide__wrapper">
+                                    <span class="parents__slide__name">Авторские статьи  нашего психолога</span>
+                                    <span class="parents__slide__desc">
+                                        Вместе с известными российскими психологами, нейробиологами 
+                                    </span>
+                                    <a href="#" class="parents__slide__link btn _red">Читать</a>
+                                </div>
+                            </div>
+                            <div class="parents__slide">
+                                <div class="parents__slide__img-box">
+                                    <img src="#" alt="">
+                                </div>
+                                <div class="parents__slide__wrapper">
+                                    <span class="parents__slide__name"></span>
+                                    <span class="parents__slide__desc">
+                                        Вместе с известными российскими психологами, нейробиологами
+                                    </span>
+                                    <a href="#" class="parents__slide__link btn _dark">Слушать</a>
+                                </div>
+                            </div>
+                            <div class="parents__slide">
+                                <div class="parents__slide__img-box">
+                                    <img src="#" alt="">
+                                </div>
+                                <div class="parents__slide__wrapper">
+                                    <span class="parents__slide__name"></span>
+                                    <span class="parents__slide__desc">
+                                        Вместе с известными российскими психологами, нейробиологами  и педагогами мы говорим  о самых важных вопросах
+                                    </span>
+                                    <a href="#" class="parents__slide__link btn">Смотреть</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
     <footer class="footer">
 
         <div class="container">
@@ -88,9 +287,9 @@
                 <div class="footer__left">
                     <div class="footer__left__wrap">
                         <a href="" class="logo"><img src="assets/img/logo-footer..svg" alt=""></a>
-                        <a href="" class="social"><img src="assets/img/vk..svg" alt=""></a>
-                        <a href="" class="social"><img src="assets/img/tg..svg" alt=""></a>
-                        <a href="" class="social"><img src="assets/img/youtube..svg" alt=""></a>
+                        <a href="" class="social"><svg><use xlink:href="assets/img/sprite..svg#vk"></use></svg></a>
+                        <a href="" class="social"><svg><use xlink:href="assets/img/sprite..svg#tg"></use></svg></a>
+                        <a href="" class="social"><svg><use xlink:href="assets/img/sprite..svg#youtube"></use></svg></a>
                         <a href="" class="mail">email: info@tiji.com</a>
                     </div>
                     <div class="footer__left__bottom">

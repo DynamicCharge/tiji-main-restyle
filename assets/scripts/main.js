@@ -21,13 +21,21 @@ var ___HTML_LOADER_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(
 var ___HTML_LOADER_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/burger-list3.svg */ "./assets/img/burger-list3.svg"), __webpack_require__.b);
 var ___HTML_LOADER_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/lk2.svg */ "./assets/img/lk2.svg"), __webpack_require__.b);
 var ___HTML_LOADER_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/logo.svg */ "./assets/img/logo.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/lk.svg */ "./assets/img/lk.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_6___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/things.svg */ "./assets/img/things.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_7___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/logo-footer.svg */ "./assets/img/logo-footer.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/vk.svg */ "./assets/img/vk.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_9___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/tg.svg */ "./assets/img/tg.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_10___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/youtube.svg */ "./assets/img/youtube.svg"), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/gulli-logo.png */ "./assets/img/gulli-logo.png"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/logo-footer.svg */ "./assets/img/logo-footer.svg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_6___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/sprite.svg */ "./assets/img/sprite.svg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_7___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/title1.jpg */ "./assets/img/title1.jpg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/ghost1.png */ "./assets/img/ghost1.png"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_9___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/shadow1.svg */ "./assets/img/shadow1.svg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_10___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/ghost2.png */ "./assets/img/ghost2.png"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/shadow2.svg */ "./assets/img/shadow2.svg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_12___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/ghost3.png */ "./assets/img/ghost3.png"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_13___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/shadow3.svg */ "./assets/img/shadow3.svg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_14___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/video-plug.jpg */ "./assets/img/video-plug.jpg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_15___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/cat1.jpg */ "./assets/img/cat1.jpg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_16___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/cat2.jpg */ "./assets/img/cat2.jpg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_17___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/cat3.jpg */ "./assets/img/cat3.jpg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_18___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/things.svg */ "./assets/img/things.svg"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_19___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/img/gulli-logo.png */ "./assets/img/gulli-logo.png"), __webpack_require__.b);
 // Module
 var ___HTML_LOADER_REPLACEMENT_0___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_0___);
 var ___HTML_LOADER_REPLACEMENT_1___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_1___);
@@ -35,13 +43,24 @@ var ___HTML_LOADER_REPLACEMENT_2___ = _node_modules_html_loader_dist_runtime_get
 var ___HTML_LOADER_REPLACEMENT_3___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_3___);
 var ___HTML_LOADER_REPLACEMENT_4___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_4___);
 var ___HTML_LOADER_REPLACEMENT_5___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_5___);
-var ___HTML_LOADER_REPLACEMENT_6___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_6___);
+var ___HTML_LOADER_REPLACEMENT_6___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_6___, { hash: "#lk-icon" });
 var ___HTML_LOADER_REPLACEMENT_7___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_7___);
 var ___HTML_LOADER_REPLACEMENT_8___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_8___);
 var ___HTML_LOADER_REPLACEMENT_9___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_9___);
 var ___HTML_LOADER_REPLACEMENT_10___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_10___);
 var ___HTML_LOADER_REPLACEMENT_11___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_11___);
-var code = "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"color-scheme\" content=\"only light\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Tiji - Главная</title>\r\n    <!-- <script src=\"https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js\"></script> -->\r\n    <!-- <script src=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js\"></script> -->\r\n    <!-- <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css\"> -->\r\n</head>\r\n<body>\r\n    <header class=\"header\">\r\n        <div class=\"container\">\r\n            <div class=\"header__wrap\">\r\n                <div class=\"header__burger-wrap\">\r\n                    <div class=\"header__burger\">\r\n                        <div class=\"header__burger__item\"></div>\r\n                    </div>\r\n                    <div class=\"header__burger__list-wrap\">\r\n                        <ul class=\"header__burger__list\">\r\n                            <span class=\"header__burger__list__headline\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_0___ + "\" alt=\"\"> Основное</span>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">ТВ программа</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Каталог мультфильмов</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Смотреть онлайн</a></li>\r\n                        </ul>\r\n                        <ul class=\"header__burger__list\">\r\n                            <span class=\"header__burger__list__headline\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_1___ + "\" alt=\"\"> Развлечения</span>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Игры</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Тесты</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Раскраски</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Лавка</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Конкурс</a></li>\r\n                        </ul>\r\n                        <ul class=\"header__burger__list\">\r\n                            <span class=\"header__burger__list__headline\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_2___ + "\" alt=\"\"> Обсуждения</span>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Родителям</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Блог</a></li>\r\n                        </ul>\r\n                        <div class=\"header__burger__lk-wrap\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_3___ + "\" alt=\"\">\r\n                            <div class=\"header__burger__lk-container\">\r\n                                <span class=\"header__burger__lk__name\">Александрина</span>\r\n                                <span class=\"header__burger__lk__goal\">1200 баллов</span>\r\n                            </div>\r\n                        </div>                                           \r\n                    </div>\r\n                </div>\r\n                <div class=\"header__wrap\">\r\n                    <a href=\"\" class=\"header__link\">тв программа</a>\r\n                    <a href=\"\" class=\"logo\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_4___ + "\" alt=\"\"></a>\r\n                    <a href=\"\" class=\"header__link\">развлечения</a>\r\n                </div>\r\n                <div class=\"header__auth-wrap\">\r\n                    <a href=\"\" class=\"header__auth-link\">\r\n                        <img src=\"" + ___HTML_LOADER_REPLACEMENT_5___ + "\" alt=\"\">\r\n                    </a>\r\n                </div>\r\n            </div>\r\n            <div class=\"header__schedule\">\r\n                <div class=\"header__schedule__item\">\r\n                    <div class=\"header__schedule__item__eyes\">\r\n                        <div class=\"eye\"></div>\r\n                        <div class=\"eye\"></div>\r\n                    </div>\r\n                    <span class=\"header__schedule__item__text\">Сейчас в эфире:</span>\r\n                    <span class=\"header__schedule__item__name\">Стэн и Оливия</span>\r\n                </div>\r\n                <div class=\"header__schedule__item\">\r\n                    <div class=\"header__schedule__item__eyes\">\r\n                        <div class=\"eye\"></div>\r\n                        <div class=\"eye\"></div>\r\n                    </div>\r\n                    <span class=\"header__schedule__item__text\">Далее:</span>\r\n                    <span class=\"header__schedule__item__name\">Стэн и Оливия</span>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </header>\r\n    <footer class=\"footer\">\r\n\r\n        <div class=\"container\">\r\n            <div class=\"footer-img__wrap\"></div>\r\n            <img src=\"" + ___HTML_LOADER_REPLACEMENT_6___ + "\" alt=\"\" class=\"footer-img\">\r\n            <div class=\"footer__wrapper\">\r\n                <div class=\"footer__left\">\r\n                    <div class=\"footer__left__wrap\">\r\n                        <a href=\"\" class=\"logo\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_7___ + "\" alt=\"\"></a>\r\n                        <a href=\"\" class=\"social\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_8___ + "\" alt=\"\"></a>\r\n                        <a href=\"\" class=\"social\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_9___ + "\" alt=\"\"></a>\r\n                        <a href=\"\" class=\"social\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_10___ + "\" alt=\"\"></a>\r\n                        <a href=\"\" class=\"mail\">email: info@tiji.com</a>\r\n                    </div>\r\n                    <div class=\"footer__left__bottom\">\r\n                        <a href=\"#\" class=\"footer__left__bottom__link\">Политика конфиденциальности</a>\r\n                        <a href=\"#\" class=\"footer__left__bottom__link\">Пользовательское соглашение</a>\r\n                    </div>\r\n                </div>\r\n                <div class=\"footer__right\">\r\n                    <a href=\"\" class=\"footer__right__link\">\r\n                        <img src=\"" + ___HTML_LOADER_REPLACEMENT_11___ + "\" alt=\"\">\r\n                    </a>\r\n                    <div class=\"footer__right__wrap\">\r\n                        <span class=\"footer__right__header\">Смотрите также</span>\r\n                        <p class=\"footer__right__desc\">Первый телеканал для девочек. Уникальный контент с актуальными шоу и мировыми новинками Gulli.ru</p>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n";
+var ___HTML_LOADER_REPLACEMENT_12___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_12___);
+var ___HTML_LOADER_REPLACEMENT_13___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_13___);
+var ___HTML_LOADER_REPLACEMENT_14___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_6___, { hash: "#vk" });
+var ___HTML_LOADER_REPLACEMENT_15___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_6___, { hash: "#tg" });
+var ___HTML_LOADER_REPLACEMENT_16___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_6___, { hash: "#youtube" });
+var ___HTML_LOADER_REPLACEMENT_17___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_14___);
+var ___HTML_LOADER_REPLACEMENT_18___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_15___);
+var ___HTML_LOADER_REPLACEMENT_19___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_16___);
+var ___HTML_LOADER_REPLACEMENT_20___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_17___);
+var ___HTML_LOADER_REPLACEMENT_21___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_18___);
+var ___HTML_LOADER_REPLACEMENT_22___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_19___);
+var code = "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"color-scheme\" content=\"only light\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Tiji - Главная</title>\r\n    <script src=\"https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js\"></script>\r\n    <!-- <script src=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js\"></script> -->\r\n    <!-- <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css\"> -->\r\n    <script src=\"https://cdn.jsdelivr.net/jquery.marquee/1.4.0/jquery.marquee.min.js\"></script>\r\n</head>\r\n<body>\r\n    <header class=\"header\">\r\n        <div class=\"container\">\r\n            <div class=\"header__wrap\">\r\n                <div class=\"header__burger-wrap\">\r\n                    <div class=\"header__burger\">\r\n                        <div class=\"header__burger__item\"></div>\r\n                    </div>\r\n                    <div class=\"header__burger__list-wrap\">\r\n                        <ul class=\"header__burger__list\">\r\n                            <span class=\"header__burger__list__headline\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_0___ + "\" alt=\"\"> Основное</span>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">ТВ программа</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Каталог мультфильмов</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Смотреть онлайн</a></li>\r\n                        </ul>\r\n                        <ul class=\"header__burger__list\">\r\n                            <span class=\"header__burger__list__headline\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_1___ + "\" alt=\"\"> Развлечения</span>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Игры</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Тесты</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Раскраски</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Лавка</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Конкурс</a></li>\r\n                        </ul>\r\n                        <ul class=\"header__burger__list\">\r\n                            <span class=\"header__burger__list__headline\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_2___ + "\" alt=\"\"> Обсуждения</span>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Родителям</a></li>\r\n                            <li class=\"header__burger__list__item\"><a href=\"#\">Блог</a></li>\r\n                        </ul>\r\n                        <div class=\"header__burger__lk-wrap\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_3___ + "\" alt=\"\">\r\n                            <div class=\"header__burger__lk-container\">\r\n                                <span class=\"header__burger__lk__name\">Александрина</span>\r\n                                <span class=\"header__burger__lk__goal\">1200 баллов</span>\r\n                            </div>\r\n                        </div>                                           \r\n                    </div>\r\n                </div>\r\n                <div class=\"header__wrap\">\r\n                    <a href=\"\" class=\"header__link\">тв программа</a>\r\n                    <a href=\"\" class=\"logo\">\r\n                        <img src=\"" + ___HTML_LOADER_REPLACEMENT_4___ + "\" alt=\"\">\r\n                        <img src=\"" + ___HTML_LOADER_REPLACEMENT_5___ + "\" alt=\"\" class=\"_mob\">\r\n                    </a>\r\n                    <a href=\"\" class=\"header__link\">развлечения</a>\r\n                </div>\r\n                <div class=\"header__auth-wrap\">\r\n                    <a href=\"\" class=\"header__auth-link  _unauthorised\">\r\n                        <div class=\"header__auth-link__icon\">\r\n                            <svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_6___ + "\"></use></svg>\r\n                        </div>\r\n                        <span>войти</span>\r\n                    </a>\r\n                    <!-- <a href=\"\" class=\"header__auth-link _authorised\">\r\n                        <div class=\"header__auth-link__icon\">\r\n                            <svg><use xlink:href=\"./assets/img/sprite.svg#lk-icon\"></use></svg>\r\n                        </div>\r\n                        <span>войти</span>\r\n                    </a> -->\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"header__schedule\">\r\n            <div class=\"header__schedule__wrap\">\r\n                <div class=\"header__schedule__item\">\r\n                    <div class=\"header__schedule__item__eyes\">\r\n                        <div class=\"eye\"></div>\r\n                        <div class=\"eye\"></div>\r\n                    </div>\r\n                    <span class=\"header__schedule__item__text\">Сейчас в эфире:</span>\r\n                    <span class=\"header__schedule__item__name\">Стэн и Оливия</span>\r\n                </div>\r\n                <div class=\"header__schedule__item\">\r\n                    <div class=\"header__schedule__item__eyes\">\r\n                        <div class=\"eye\"></div>\r\n                        <div class=\"eye\"></div>\r\n                    </div>\r\n                    <span class=\"header__schedule__item__text\">Далее:</span>\r\n                    <span class=\"header__schedule__item__name\">Стэн и Оливия</span>\r\n                </div>\r\n                \r\n            </div>            \r\n        </div>\r\n    </header>\r\n\r\n    <main class=\"main\">\r\n\r\n        <section class=\"title\">\r\n            <div class=\"container\">\r\n                <div class=\"title__wrapper\">\r\n                    <div class=\"title__slider\">\r\n                        <div class=\"title__slide\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_7___ + "\" alt=\"\">\r\n                        </div>\r\n                        <div class=\"title__slide\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_7___ + "\" alt=\"\">\r\n                        </div>\r\n                        <div class=\"title__slide\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_7___ + "\" alt=\"\">\r\n                        </div>\r\n                        <div class=\"title__slide\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_7___ + "\" alt=\"\">\r\n                        </div>\r\n                    </div>\r\n                    <div class=\"title__wrapper__dots\">\r\n\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </section>\r\n        <section class=\"welcome\">\r\n            <div class=\"container\">\r\n                <div class=\"welcome__wrapper\">\r\n                    <div class=\"welcome__left\">\r\n                        <ul class=\"ghosts__list\">\r\n                            <li class=\"ghosts__item\">\r\n                                <img src=\"" + ___HTML_LOADER_REPLACEMENT_8___ + "\" alt=\"\" class=\"ghost\">\r\n                                <img src=\"" + ___HTML_LOADER_REPLACEMENT_9___ + "\" alt=\"\" class=\"shadow\">\r\n                            </li>\r\n                            <li class=\"ghosts__item\">\r\n                                <img src=\"" + ___HTML_LOADER_REPLACEMENT_10___ + "\" alt=\"\" class=\"ghost\">\r\n                                <img src=\"" + ___HTML_LOADER_REPLACEMENT_11___ + "\" alt=\"\" class=\"shadow\">\r\n                            </li>\r\n                            <li class=\"ghosts__item\">\r\n                                <img src=\"" + ___HTML_LOADER_REPLACEMENT_12___ + "\" alt=\"\" class=\"ghost\">\r\n                                <img src=\"" + ___HTML_LOADER_REPLACEMENT_13___ + "\" alt=\"\" class=\"shadow\">\r\n                            </li>\r\n                        </ul>\r\n                    </div>\r\n                    <div class=\"welcome__right\">\r\n                        <h1 class=\"welcome__headline section__header\">ПРИВЕТ ОТ TiJi!</h1>\r\n                        <p class=\"welcome__desc section-text\">\r\n                            Добро пожаловать в мир свободных, счастливых детей и неидеальных родителей! Телеканал TiJi дарит атмосферу волшебства и новых горизонтов, безопасности и доверия, мечтаний и творческого развития. Мультфильмы TiJi полностью адаптированы под современного ребенка, развивают самое главное для дошкольника – эмоциональный интеллект и прививают базовые человеческие ценности. Нравится?                            \r\n                        </p>\r\n                        <div class=\"welcome__right__socials\">\r\n                            <span class=\"welcome__right__socials__text\">Давайте будем на связи:</span>\r\n                            <a href=\"\" class=\"welcome__right__social__link\"><svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_14___ + "\"></use></svg></a>\r\n                            <a href=\"\" class=\"welcome__right__social__link\"><svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_15___ + "\"></use></svg></a>\r\n                            <a href=\"\" class=\"welcome__right__social__link\"><svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_16___ + "\"></use></svg></a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n            <div class=\"container\">\r\n                <div class=\"welcome__wrapper _secondary\">\r\n                    <div class=\"welcome__left\">\r\n                        <h2 class=\"section__header\">ГДЕ СМОТРЕТЬ ТЕЛЕКАНАЛ TiJi?</h2>\r\n                    </div>\r\n                    <div class=\"welcome__right\">\r\n                        <p class=\"welcome__desc section__text\">Смотрите телеканал с удобных<br> устройств в любое время!</p>\r\n                        <a href=\"\" class=\"welcome__btn btn _dark\">Мы тут есть</a>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </section>\r\n        <section class=\"video\">\r\n            <div class=\"container\">\r\n                <div class=\"video__wrapper\">\r\n                    <div class=\"video-box\">\r\n                        <img src=\"" + ___HTML_LOADER_REPLACEMENT_17___ + "\" alt=\"\">\r\n                    </div>\r\n                    <div class=\"video__links\">\r\n                        <a href=\"#\" class=\"video__link btn\">Каталог мультфильмов</a>\r\n                        <a href=\"#\" class=\"video__link btn _dark\">Смотреть онлайн</a>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </section>\r\n        <section class=\"categories\">\r\n            <div class=\"container\">\r\n                <ul class=\"categories__list\">\r\n                    <li class=\"categories__item\">\r\n                        <a href=\"\" class=\"categories__link\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_18___ + "\" alt=\"\">\r\n                            <div class=\"categories__overlay\">\r\n                                <span class=\"categories__header\">Сказки на Tiji</span>\r\n                                <span class=\"categories__desc\">КОНКУРС</span>\r\n                                <span class=\"categories__text\">\r\n                                    Слушайте сказки на TiJi\r\n                                    и выигрывайте классные\r\n                                    призы                                    \r\n                                </span>\r\n                            </div>\r\n                        </a>\r\n                    </li>\r\n                    <li class=\"categories__item\">\r\n                        <a href=\"\" class=\"categories__link\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_19___ + "\" alt=\"\">\r\n                            <div class=\"categories__overlay\">\r\n                                <span class=\"categories__header\">Развлечения</span>\r\n                                <span class=\"categories__desc\"></span>\r\n                                <span class=\"categories__text\"></span>\r\n                            </div>\r\n                        </a>\r\n                    </li>\r\n                    <li class=\"categories__item\">\r\n                        <a href=\"\" class=\"categories__link\">\r\n                            <img src=\"" + ___HTML_LOADER_REPLACEMENT_20___ + "\" alt=\"\">\r\n                            <div class=\"categories__overlay\">\r\n                                <span class=\"categories__header\">Лавка Tiji</span>\r\n                                <span class=\"categories__desc\"></span>\r\n                                <span class=\"categories__text\"></span>\r\n                            </div>\r\n                        </a>\r\n                    </li>                                        \r\n                </ul>\r\n            </div>\r\n        </section>\r\n        <section class=\"parents\">\r\n            <div class=\"container\">\r\n                <div class=\"parents__wrapper\">\r\n                    <div class=\"parents__controlls\">\r\n                        <h2 class=\"parents__headline section__header\">любимым родителям</h2>\r\n                        <ul class=\"parents__tabs__list\">\r\n                            <li class=\"parents__tabs__item btn _active\">Все</li>\r\n                            <li class=\"parents__tabs__item btn _dark\">Слушать</li>\r\n                            <li class=\"parents__tabs__item btn\">Смотреть</li>\r\n                            <li class=\"parents__tabs__item btn _red\">Читать </li>\r\n                        </ul>\r\n                    </div>\r\n                    <div class=\"parents__slider__wrapper\">\r\n                        <div class=\"parents__slider__controlls\"></div>\r\n                        <div class=\"parents__slider\">\r\n                            <div class=\"parents__slide\">\r\n                                <div class=\"parents__slide__img-box\">\r\n                                    <img src=\"#\" alt=\"\">\r\n                                </div>\r\n                                <div class=\"parents__slide__wrapper\">\r\n                                    <span class=\"parents__slide__name\">Авторские статьи \u2028нашего психолога</span>\r\n                                    <span class=\"parents__slide__desc\">\r\n                                        Вместе с известными российскими психологами, нейробиологами \r\n                                    </span>\r\n                                    <a href=\"#\" class=\"parents__slide__link btn _red\">Читать</a>\r\n                                </div>\r\n                            </div>\r\n                            <div class=\"parents__slide\">\r\n                                <div class=\"parents__slide__img-box\">\r\n                                    <img src=\"#\" alt=\"\">\r\n                                </div>\r\n                                <div class=\"parents__slide__wrapper\">\r\n                                    <span class=\"parents__slide__name\"></span>\r\n                                    <span class=\"parents__slide__desc\">\r\n                                        Вместе с известными российскими психологами, нейробиологами\r\n                                    </span>\r\n                                    <a href=\"#\" class=\"parents__slide__link btn _dark\">Слушать</a>\r\n                                </div>\r\n                            </div>\r\n                            <div class=\"parents__slide\">\r\n                                <div class=\"parents__slide__img-box\">\r\n                                    <img src=\"#\" alt=\"\">\r\n                                </div>\r\n                                <div class=\"parents__slide__wrapper\">\r\n                                    <span class=\"parents__slide__name\"></span>\r\n                                    <span class=\"parents__slide__desc\">\r\n                                        Вместе с известными российскими психологами, нейробиологами \u2028и педагогами мы говорим \u2028о самых важных вопросах\r\n                                    </span>\r\n                                    <a href=\"#\" class=\"parents__slide__link btn\">Смотреть</a>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </section>\r\n\r\n    </main>\r\n\r\n    <footer class=\"footer\">\r\n\r\n        <div class=\"container\">\r\n            <div class=\"footer-img__wrap\"></div>\r\n            <img src=\"" + ___HTML_LOADER_REPLACEMENT_21___ + "\" alt=\"\" class=\"footer-img\">\r\n            <div class=\"footer__wrapper\">\r\n                <div class=\"footer__left\">\r\n                    <div class=\"footer__left__wrap\">\r\n                        <a href=\"\" class=\"logo\"><img src=\"" + ___HTML_LOADER_REPLACEMENT_5___ + "\" alt=\"\"></a>\r\n                        <a href=\"\" class=\"social\"><svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_14___ + "\"></use></svg></a>\r\n                        <a href=\"\" class=\"social\"><svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_15___ + "\"></use></svg></a>\r\n                        <a href=\"\" class=\"social\"><svg><use xlink:href=\"" + ___HTML_LOADER_REPLACEMENT_16___ + "\"></use></svg></a>\r\n                        <a href=\"\" class=\"mail\">email: info@tiji.com</a>\r\n                    </div>\r\n                    <div class=\"footer__left__bottom\">\r\n                        <a href=\"#\" class=\"footer__left__bottom__link\">Политика конфиденциальности</a>\r\n                        <a href=\"#\" class=\"footer__left__bottom__link\">Пользовательское соглашение</a>\r\n                    </div>\r\n                </div>\r\n                <div class=\"footer__right\">\r\n                    <a href=\"\" class=\"footer__right__link\">\r\n                        <img src=\"" + ___HTML_LOADER_REPLACEMENT_22___ + "\" alt=\"\">\r\n                    </a>\r\n                    <div class=\"footer__right__wrap\">\r\n                        <span class=\"footer__right__header\">Смотрите также</span>\r\n                        <p class=\"footer__right__desc\">Первый телеканал для девочек. Уникальный контент с актуальными шоу и мировыми новинками Gulli.ru</p>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n";
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (code);
 
@@ -11095,6 +11114,72 @@ module.exports = __webpack_require__.p + "assets/img/burger-list3..svg";
 
 /***/ }),
 
+/***/ "./assets/img/cat1.jpg":
+/*!*****************************!*\
+  !*** ./assets/img/cat1.jpg ***!
+  \*****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/cat1..jpg";
+
+/***/ }),
+
+/***/ "./assets/img/cat2.jpg":
+/*!*****************************!*\
+  !*** ./assets/img/cat2.jpg ***!
+  \*****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/cat2..jpg";
+
+/***/ }),
+
+/***/ "./assets/img/cat3.jpg":
+/*!*****************************!*\
+  !*** ./assets/img/cat3.jpg ***!
+  \*****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/cat3..jpg";
+
+/***/ }),
+
+/***/ "./assets/img/ghost1.png":
+/*!*******************************!*\
+  !*** ./assets/img/ghost1.png ***!
+  \*******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/ghost1..png";
+
+/***/ }),
+
+/***/ "./assets/img/ghost2.png":
+/*!*******************************!*\
+  !*** ./assets/img/ghost2.png ***!
+  \*******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/ghost2..png";
+
+/***/ }),
+
+/***/ "./assets/img/ghost3.png":
+/*!*******************************!*\
+  !*** ./assets/img/ghost3.png ***!
+  \*******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/ghost3..png";
+
+/***/ }),
+
 /***/ "./assets/img/gulli-logo.png":
 /*!***********************************!*\
   !*** ./assets/img/gulli-logo.png ***!
@@ -11103,17 +11188,6 @@ module.exports = __webpack_require__.p + "assets/img/burger-list3..svg";
 
 "use strict";
 module.exports = __webpack_require__.p + "assets/img/gulli-logo..png";
-
-/***/ }),
-
-/***/ "./assets/img/lk.svg":
-/*!***************************!*\
-  !*** ./assets/img/lk.svg ***!
-  \***************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-module.exports = __webpack_require__.p + "assets/img/lk..svg";
 
 /***/ }),
 
@@ -11150,14 +11224,47 @@ module.exports = __webpack_require__.p + "assets/img/logo..svg";
 
 /***/ }),
 
-/***/ "./assets/img/tg.svg":
-/*!***************************!*\
-  !*** ./assets/img/tg.svg ***!
-  \***************************/
+/***/ "./assets/img/shadow1.svg":
+/*!********************************!*\
+  !*** ./assets/img/shadow1.svg ***!
+  \********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "assets/img/tg..svg";
+module.exports = __webpack_require__.p + "assets/img/shadow1..svg";
+
+/***/ }),
+
+/***/ "./assets/img/shadow2.svg":
+/*!********************************!*\
+  !*** ./assets/img/shadow2.svg ***!
+  \********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/shadow2..svg";
+
+/***/ }),
+
+/***/ "./assets/img/shadow3.svg":
+/*!********************************!*\
+  !*** ./assets/img/shadow3.svg ***!
+  \********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/shadow3..svg";
+
+/***/ }),
+
+/***/ "./assets/img/sprite.svg":
+/*!*******************************!*\
+  !*** ./assets/img/sprite.svg ***!
+  \*******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+module.exports = __webpack_require__.p + "assets/img/sprite..svg";
 
 /***/ }),
 
@@ -11172,25 +11279,25 @@ module.exports = __webpack_require__.p + "assets/img/things..svg";
 
 /***/ }),
 
-/***/ "./assets/img/vk.svg":
-/*!***************************!*\
-  !*** ./assets/img/vk.svg ***!
-  \***************************/
+/***/ "./assets/img/title1.jpg":
+/*!*******************************!*\
+  !*** ./assets/img/title1.jpg ***!
+  \*******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "assets/img/vk..svg";
+module.exports = __webpack_require__.p + "assets/img/title1..jpg";
 
 /***/ }),
 
-/***/ "./assets/img/youtube.svg":
-/*!********************************!*\
-  !*** ./assets/img/youtube.svg ***!
-  \********************************/
+/***/ "./assets/img/video-plug.jpg":
+/*!***********************************!*\
+  !*** ./assets/img/video-plug.jpg ***!
+  \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "assets/img/youtube..svg";
+module.exports = __webpack_require__.p + "assets/img/video-plug..jpg";
 
 /***/ })
 
@@ -11341,6 +11448,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _vendor_jquery_ui_min_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./vendor/jquery-ui.min.js */ "./assets/scripts/vendor/jquery-ui.min.js");
 /* harmony import */ var _vendor_jquery_ui_min_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_vendor_jquery_ui_min_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _index_html__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../index.html */ "./index.html");
+/* provided dependency */ var jQuery = __webpack_require__(/*! jquery */ "../node_modules/jquery/dist/jquery.js");
 /* provided dependency */ var $ = __webpack_require__(/*! jquery */ "../node_modules/jquery/dist/jquery.js");
 //SCSS
 
@@ -11355,6 +11463,23 @@ __webpack_require__.r(__webpack_exports__);
 //HTML
 
 
+/**
+ * jQuery.marquee - scrolling text like old marquee element
+ * @author Aamir Afridi - aamirafridi(at)gmail(dot)com / http://aamirafridi.com/jquery/jquery-marquee-plugin
+ */
+(function(f){f.fn.marquee=function(x){return this.each(function(){var a=f.extend({},f.fn.marquee.defaults,x),b=f(this),c,h,t,u,k,e=3,y="animation-play-state",n=!1,E=function(a,b,c){for(var e=["webkit","moz","MS","o",""],d=0;d<e.length;d++)e[d]||(b=b.toLowerCase()),a.addEventListener(e[d]+b,c,!1)},F=function(a){var b=[],c;for(c in a)a.hasOwnProperty(c)&&b.push(c+":"+a[c]);b.push();return"{"+b.join(",")+"}"},p={pause:function(){n&&a.allowCss3Support?c.css(y,"paused"):f.fn.pause&&c.pause();b.data("runningStatus",
+"paused");b.trigger("paused")},resume:function(){n&&a.allowCss3Support?c.css(y,"running"):f.fn.resume&&c.resume();b.data("runningStatus","resumed");b.trigger("resumed")},toggle:function(){p["resumed"==b.data("runningStatus")?"pause":"resume"]()},destroy:function(){clearTimeout(b.timer);b.find("*").andSelf().unbind();b.html(b.find(".js-marquee:first").html())}};if("string"===typeof x)f.isFunction(p[x])&&(c||(c=b.find(".js-marquee-wrapper")),!0===b.data("css3AnimationIsSupported")&&(n=!0),p[x]());else{var v;
+f.each(a,function(c,d){v=b.attr("data-"+c);if("undefined"!==typeof v){switch(v){case "true":v=!0;break;case "false":v=!1}a[c]=v}});a.speed&&(a.duration=a.speed*parseInt(b.width(),10));u="up"==a.direction||"down"==a.direction;a.gap=a.duplicated?parseInt(a.gap):0;b.wrapInner('<div class="js-marquee"></div>');var l=b.find(".js-marquee").css({"margin-right":a.gap,"float":"left"});a.duplicated&&l.clone(!0).appendTo(b);b.wrapInner('<div style="width:100000px" class="js-marquee-wrapper"></div>');c=b.find(".js-marquee-wrapper");
+if(u){var m=b.height();c.removeAttr("style");b.height(m);b.find(".js-marquee").css({"float":"none","margin-bottom":a.gap,"margin-right":0});a.duplicated&&b.find(".js-marquee:last").css({"margin-bottom":0});var q=b.find(".js-marquee:first").height()+a.gap;a.startVisible&&!a.duplicated?(a._completeDuration=(parseInt(q,10)+parseInt(m,10))/parseInt(m,10)*a.duration,a.duration*=parseInt(q,10)/parseInt(m,10)):a.duration*=(parseInt(q,10)+parseInt(m,10))/parseInt(m,10)}else k=b.find(".js-marquee:first").width()+
+a.gap,h=b.width(),a.startVisible&&!a.duplicated?(a._completeDuration=(parseInt(k,10)+parseInt(h,10))/parseInt(h,10)*a.duration,a.duration*=parseInt(k,10)/parseInt(h,10)):a.duration*=(parseInt(k,10)+parseInt(h,10))/parseInt(h,10);a.duplicated&&(a.duration/=2);if(a.allowCss3Support){var l=document.body||document.createElement("div"),g="marqueeAnimation-"+Math.floor(1E7*Math.random()),A=["Webkit","Moz","O","ms","Khtml"],B="animation",d="",r="";l.style.animation&&(r="@keyframes "+g+" ",n=!0);if(!1===
+n)for(var z=0;z<A.length;z++)if(void 0!==l.style[A[z]+"AnimationName"]){l="-"+A[z].toLowerCase()+"-";B=l+B;y=l+y;r="@"+l+"keyframes "+g+" ";n=!0;break}n&&(d=g+" "+a.duration/1E3+"s "+a.delayBeforeStart/1E3+"s infinite "+a.css3easing,b.data("css3AnimationIsSupported",!0))}var C=function(){c.css("margin-top","up"==a.direction?m+"px":"-"+q+"px")},D=function(){c.css("margin-left","left"==a.direction?h+"px":"-"+k+"px")};a.duplicated?(u?a.startVisible?c.css("margin-top",0):c.css("margin-top","up"==a.direction?
+m+"px":"-"+(2*q-a.gap)+"px"):a.startVisible?c.css("margin-left",0):c.css("margin-left","left"==a.direction?h+"px":"-"+(2*k-a.gap)+"px"),a.startVisible||(e=1)):a.startVisible?e=2:u?C():D();var w=function(){a.duplicated&&(1===e?(a._originalDuration=a.duration,a.duration=u?"up"==a.direction?a.duration+m/(q/a.duration):2*a.duration:"left"==a.direction?a.duration+h/(k/a.duration):2*a.duration,d&&(d=g+" "+a.duration/1E3+"s "+a.delayBeforeStart/1E3+"s "+a.css3easing),e++):2===e&&(a.duration=a._originalDuration,
+d&&(g+="0",r=f.trim(r)+"0 ",d=g+" "+a.duration/1E3+"s 0s infinite "+a.css3easing),e++));u?a.duplicated?(2<e&&c.css("margin-top","up"==a.direction?0:"-"+q+"px"),t={"margin-top":"up"==a.direction?"-"+q+"px":0}):a.startVisible?2===e?(d&&(d=g+" "+a.duration/1E3+"s "+a.delayBeforeStart/1E3+"s "+a.css3easing),t={"margin-top":"up"==a.direction?"-"+q+"px":m+"px"},e++):3===e&&(a.duration=a._completeDuration,d&&(g+="0",r=f.trim(r)+"0 ",d=g+" "+a.duration/1E3+"s 0s infinite "+a.css3easing),C()):(C(),t={"margin-top":"up"==
+a.direction?"-"+c.height()+"px":m+"px"}):a.duplicated?(2<e&&c.css("margin-left","left"==a.direction?0:"-"+k+"px"),t={"margin-left":"left"==a.direction?"-"+k+"px":0}):a.startVisible?2===e?(d&&(d=g+" "+a.duration/1E3+"s "+a.delayBeforeStart/1E3+"s "+a.css3easing),t={"margin-left":"left"==a.direction?"-"+k+"px":h+"px"},e++):3===e&&(a.duration=a._completeDuration,d&&(g+="0",r=f.trim(r)+"0 ",d=g+" "+a.duration/1E3+"s 0s infinite "+a.css3easing),D()):(D(),t={"margin-left":"left"==a.direction?"-"+k+"px":
+h+"px"});b.trigger("beforeStarting");if(n){c.css(B,d);var l=r+" { 100%  "+F(t)+"}",p=c.find("style");0!==p.length?p.filter(":last").html(l):c.append("<style>"+l+"</style>");E(c[0],"AnimationIteration",function(){b.trigger("finished")});E(c[0],"AnimationEnd",function(){w();b.trigger("finished")})}else c.animate(t,a.duration,a.easing,function(){b.trigger("finished");a.pauseOnCycle?b.timer=setTimeout(w,a.delayBeforeStart):w()});b.data("runningStatus","resumed")};b.bind("pause",p.pause);b.bind("resume",
+p.resume);a.pauseOnHover&&b.bind("mouseenter mouseleave",p.toggle);n&&a.allowCss3Support?w():b.timer=setTimeout(w,a.delayBeforeStart)}})};f.fn.marquee.defaults={allowCss3Support:!0,css3easing:"linear",easing:"linear",delayBeforeStart:1E3,direction:"left",duplicated:!1,duration:5E3,gap:20,pauseOnCycle:!1,pauseOnHover:!1,startVisible:!1}})(jQuery);
+
+
 $(document).ready(function () {
     $('.header__burger').on('click', function(){
         if($(this).hasClass('_active')) {
@@ -11364,6 +11489,24 @@ $(document).ready(function () {
             $(this).addClass('_active');
             $('.header__burger__list-wrap').addClass('_active').slideDown(300);
         }
+    });
+
+    if($(window).width() <= 625) {
+        $(function() {
+            $('.header__schedule__wrap').marquee({
+              duration: 7000,
+              startVisible: true,
+              duplicated: false
+            });
+        });
+    }
+
+    $('.title__slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: true,
+        appendDots: $('.title__wrapper__dots')
     });
 });
 })();
