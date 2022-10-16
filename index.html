@@ -46,7 +46,7 @@
                                 <span class="header__burger__lk__name">Александрина</span>
                                 <span class="header__burger__lk__goal">1200 баллов</span>
                             </div>
-                        </div>                                           
+                        </div>
                     </div>
                 </div>
                 <div class="header__wrap">
@@ -225,18 +225,20 @@
                     <div class="parents__controlls">
                         <h2 class="parents__headline section__header">любимым родителям</h2>
                         <ul class="parents__tabs__list">
-                            <li class="parents__tabs__item btn _active">Все</li>
-                            <li class="parents__tabs__item btn _dark">Слушать</li>
-                            <li class="parents__tabs__item btn">Смотреть</li>
-                            <li class="parents__tabs__item btn _red">Читать </li>
+                            <li data-tab="Все" class="parents__tabs__item btn _active">Все</li>
+                            <li data-tab="Слушать" class="parents__tabs__item btn _dark"> <svg><use xlink:href="assets/img/sprite..svg#hear"></use></svg> Слушать</li>
+                            <li data-tab="Смотреть" class="parents__tabs__item btn"> <svg><use xlink:href="assets/img/sprite..svg#watch"></use></svg> Смотреть</li>
+                            <li data-tab="Читать" class="parents__tabs__item btn _red"> <svg><use xlink:href="assets/img/sprite..svg#read"></use></svg> Читать </li>
                         </ul>
                     </div>
                     <div class="parents__slider__wrapper">
-                        <div class="parents__slider__controlls"></div>
+                        <div class="parents__slider__controlls">
+                            <button class="parents__slider__controll parents-next"><img src="assets/img/slider-controll..svg" alt=""></button>
+                        </div>
                         <div class="parents__slider">
                             <div class="parents__slide">
-                                <div class="parents__slide__img-box">
-                                    <img src="#" alt="">
+                                <div class="parents__slide__img-box" data-filter="Читать">
+                                    <img src="assets/img/parents1..jpg" alt="">
                                 </div>
                                 <div class="parents__slide__wrapper">
                                     <span class="parents__slide__name">Авторские статьи  нашего психолога</span>
@@ -247,11 +249,11 @@
                                 </div>
                             </div>
                             <div class="parents__slide">
-                                <div class="parents__slide__img-box">
-                                    <img src="#" alt="">
+                                <div class="parents__slide__img-box" data-filter="Слушать">
+                                    <img src="assets/img/parents2..jpg" alt="">
                                 </div>
                                 <div class="parents__slide__wrapper">
-                                    <span class="parents__slide__name"></span>
+                                    <span class="parents__slide__name">Аудио-подкасты Виктории Шаманской</span>
                                     <span class="parents__slide__desc">
                                         Вместе с известными российскими психологами, нейробиологами
                                     </span>
@@ -259,11 +261,29 @@
                                 </div>
                             </div>
                             <div class="parents__slide">
-                                <div class="parents__slide__img-box">
-                                    <img src="#" alt="">
+                                <div class="parents__slide__img-box" data-filter="Смотреть">
+                                    <img src="assets/img/parents3..jpg" alt="">
                                 </div>
                                 <div class="parents__slide__wrapper">
-                                    <span class="parents__slide__name"></span>
+                                    <span class="parents__slide__name">
+                                        Эпоха других детей?
+                                        <span>1 часть</span>
+                                    </span>
+                                    <span class="parents__slide__desc">
+                                        Вместе с известными российскими психологами, нейробиологами  и педагогами мы говорим  о самых важных вопросах
+                                    </span>
+                                    <a href="#" class="parents__slide__link btn">Смотреть</a>
+                                </div>
+                            </div>
+                            <div class="parents__slide">
+                                <div class="parents__slide__img-box" data-filter="Смотреть">
+                                    <img src="assets/img/parents3..jpg" alt="">
+                                </div>
+                                <div class="parents__slide__wrapper">
+                                    <span class="parents__slide__name">
+                                        Эпоха других детей?
+                                        <span>1 часть</span>
+                                    </span>
                                     <span class="parents__slide__desc">
                                         Вместе с известными российскими психологами, нейробиологами  и педагогами мы говорим  о самых важных вопросах
                                     </span>
@@ -271,6 +291,30 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="blog">
+            <div class="container">
+                <div class="blog__wrapper">
+                    <div class="blog__left-img"><img src="assets/img/blog..jpg" alt=""></div>
+                    <div class="blog__right">
+
+                        <div class="blog__crab">
+                            <img src="assets/img/crab..svg" alt="">
+                            <div class="blog__crab__eye _right"></div>
+                            <div class="blog__crab__eye _left"></div>
+                            <div class="blog__crab__arm _left"></div>
+                            <div class="blog__crab__arm _right"></div>
+                        </div>
+
+                        <span class="blog__headline section__header">Блог заботливых родителей</span>
+                        <p class="blog__desc">
+                          <span>Ваша роль в обучении ребёнка:</span> что нужно знать родителям начальной школы     
+                        </p>
+                        <a class="blog__text-link" href="">читать далее</a>                        
+                        <a href="#" class="blog__main-link btn _dark">Перейти в Блог</a>
                     </div>
                 </div>
             </div>
